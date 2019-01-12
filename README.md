@@ -1,11 +1,11 @@
 
-# 요마와리: 떠도는 밤 한국어화 프로젝트
+## 요마와리: 떠도는 밤(Steam) 한국어화 프로젝트
 
 [![](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/readme_res/steampage.png)](https://store.steampowered.com/app/477870/)
 
-## 설치법
+# 설치법
 
-1. Github [릴리즈](https://github.com/blackwaterbread/yomawari-pc-kr-translation/releases) 탭에서 최신 패치파일을 받아주세요.
+1. **[여기에서](https://github.com/blackwaterbread/yomawari-pc-kr-translation/releases) 최신 패치파일을 받아주세요. (위의 readme 및 폴더 받는거 아닙니다. 링크 클릭해주세요)**
 2. 압축을 푼 뒤 안의 파일들을 요마와리 폴더 안 data 폴더 안에 붙여넣습니다.
 - (Steam\steamapps\common\Yomawari Night Alone\data)
 3. 게임 실행 후 옵션에서 언어를 영어로 바꿔주셔야 됩니다.
