@@ -14,10 +14,7 @@
 ![](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/readme_res/howtoinstall.png)
 
 -----
-# 변경점
 
-* 1.0
-    * 패치가 릴리즈되었습니다.
 ## 번역된 내용
 
 - 아이템
@@ -44,8 +41,8 @@
 -----
  ## 번역한 사람들
 ![sis](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/readme_res/sis.png)![you](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/readme_res/you.png)
-- [DN^](https://steamcommunity.com/id/blackwaterbread)
-- [yuulafe](https://steamcommunity.com/profiles/76561198073408138/)
+* [DN^](https://steamcommunity.com/id/blackwaterbread)
+* [yuulafe](https://twitter.com/yuulafe) - [Twitter](https://twitter.com/yuulafe)
 
 ### 쓰인 폰트
 > *제주도청 제주고딕 - [배포 페이지](https://www.jeju.go.kr/jeju/symbol/font/infor.htm)  
@@ -54,5 +51,9 @@
 ## Thanks to,
 > *[wmltogether](https://github.com/wmltogether) - [yomawari-pc-translation](https://github.com/wmltogether/yomawari-pc-translation)*
 
------
+
+-----  
+## 피드백 & 버그 리포트  
+> blackwaterbread@gmail.com
+
 
