@@ -1,7 +1,7 @@
 
 # 요마와리: 떠도는 밤 한국어화 프로젝트
 
-[![](https://user-images.githubusercontent.com/40688555/50965956-dc3d9d00-1516-11e9-89a8-1797ca9894fc.png)](https://store.steampowered.com/app/477870/)
+[![](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/readme_res/steampage.png)](https://store.steampowered.com/app/477870/)
 
 ## 설치법
 
@@ -11,9 +11,13 @@
 3. 게임 실행 후 옵션에서 언어를 영어로 바꿔주셔야 됩니다.
 - 기술적 문제로 UI는 번역하지 못했습니다. 타이틀 화면이 영어로 나오는건 정상이니 그대로 게임을 시작해 주세요.
 
-![](https://user-images.githubusercontent.com/40688555/50976757-18332b00-1534-11e9-9b67-cd901c4d7957.png)
+![](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/readme_res/howtoinstall.png)
 
 -----
+# 변경점
+
+* 1.0
+    * 패치가 릴리즈되었습니다.
 ## 번역된 내용
 
 - 아이템
@@ -39,7 +43,7 @@
 
 -----
  ## 번역한 사람들
-![sis](https://user-images.githubusercontent.com/40688555/50977002-a4dde900-1534-11e9-9e20-5063f3ea53dc.png)![you](https://user-images.githubusercontent.com/40688555/50976932-824bd000-1534-11e9-8949-fb6e4bb0abaf.png)
+![sis](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/readme_res/sis.png)![you](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/readme_res/you.png)
 - [DN^](https://steamcommunity.com/id/blackwaterbread)
 - [yuulafe](https://steamcommunity.com/profiles/76561198073408138/)
 
