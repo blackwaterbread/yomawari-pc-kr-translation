@@ -1,5 +1,6 @@
+## 요마와리: 떠도는 밤(Steam) 한국어화 프로젝트
 [![](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/readme_res/steampage.png)](https://store.steampowered.com/app/477870/)
-## 요마와리: 떠도는 밤(Steam) 한국어화 프로젝트  
+
 # 설치법
 
 1. **[여기에서](https://github.com/blackwaterbread/yomawari-pc-kr-translation/releases) 최신 패치파일을 받아주세요. (위의 readme 및 폴더 받는거 아닙니다. 링크 클릭해주세요)**
@@ -27,7 +28,6 @@
 - 아이템
 - 아이템 설명
 - 대사
-- 시스템 설명
 - 지도
 
 ## 번역되지 않은 내용
