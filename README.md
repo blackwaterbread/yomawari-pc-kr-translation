@@ -1,17 +1,24 @@
 
-## 요마와리: 떠도는 밤(Steam) 한국어화 프로젝트
-
-[![](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/readme_res/steampage.png)](https://store.steampowered.com/app/477870/)
-
+## 요마와리: 떠도는 밤(Steam) 한국어화 프로젝트  
 # 설치법
 
 1. **[여기에서](https://github.com/blackwaterbread/yomawari-pc-kr-translation/releases) 최신 패치파일을 받아주세요. (위의 readme 및 폴더 받는거 아닙니다. 링크 클릭해주세요)**
 2. 압축을 푼 뒤 안의 파일들을 요마와리 폴더 안 data 폴더 안에 붙여넣습니다.
 - (Steam\steamapps\common\Yomawari Night Alone\data)
-3. 게임 실행 후 옵션에서 언어를 영어로 바꿔주셔야 됩니다.
+3. 게임 옵션에서 언어가 영어로 되어 있어야 합니다.
+
+# 당황하지 마세요
 - 기술적 문제로 UI는 번역하지 못했습니다. 타이틀 화면이 영어로 나오는건 정상이니 그대로 게임을 시작해 주세요.
+- UI 번역이 완벽하지 못해 키 설정 창 문자 출력이 이상하게 되는 문제가 있습니다.   
+아래의 기본 키 설정 스크린샷을 참고하셔서 착오 없으시길 바랍니다.
+
+-----
 
 ![](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/readme_res/howtoinstall.png)
+
+![](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/readme_res/Keyboard.PNG)
+
+![](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/readme_res/default_key.jpg)
 
 -----
 
@@ -31,7 +38,8 @@
 - 요마와리 중국어 번역 툴 기반입니다.
 
 -----
-## 스크린샷
+
+[![](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/readme_res/steampage.png)](https://store.steampowered.com/app/477870/)
 
 ![](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/screenshot/sc1.jpg)
 ![](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/screenshot/sc2.jpg)
