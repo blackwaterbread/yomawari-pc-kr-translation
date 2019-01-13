@@ -42,7 +42,7 @@
  ## 번역한 사람들
 ![sis](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/readme_res/sis.png)![you](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/readme_res/you.png)
 * [DN^](https://steamcommunity.com/id/blackwaterbread)
-* [yuulafe](https://twitter.com/yuulafe) - [Twitter](https://twitter.com/yuulafe)
+* [yuulafe](https://steamcommunity.com/id/yuulafe/) - [Twitter](https://twitter.com/yuulafe)
 
 ### 쓰인 폰트
 > *제주도청 제주고딕 - [배포 페이지](https://www.jeju.go.kr/jeju/symbol/font/infor.htm)  
