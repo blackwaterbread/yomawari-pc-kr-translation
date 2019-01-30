@@ -9,8 +9,8 @@
 3. 게임 옵션에서 언어가 영어로 되어 있어야 합니다.
 
 # 당황하지 마세요
-- 기술적 문제로 UI는 번역하지 못했습니다. [**타이틀 화면이 영어로 나오는건 정상**]()이니 그대로 게임을 시작해 주세요.
-- UI 번역이 완벽하지 못해 [**키 설정 창 문자 출력이 이상하게 되는 문제**]()가 있습니다.   
+- 기술적 문제로 UI는 번역하지 못했습니다. [**타이틀 화면이 영어로 나오는건 정상**](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/readme_res/40688555.jpg)이니 그대로 게임을 시작해 주세요.
+- UI 번역이 완벽하지 못해 [**키 설정 창 문자 출력이 이상하게 되는 문제**](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/readme_res/40688555.jpg)가 있습니다.   
 아래의 기본 키 설정 스크린샷을 참고하셔서 착오 없으시길 바랍니다. 
 - [**한글패치가 된 상태로 키설정을 잘못했을 경우**](https://github.com/blackwaterbread/yomawari-pc-kr-translation/issues/4)
 
