@@ -48,7 +48,7 @@
 -----
  ## 번역한 사람들
 ![sis](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/readme_res/sis.png)![you](https://raw.githubusercontent.com/blackwaterbread/yomawari-pc-kr-translation/master/readme_res/you.png)
-* [DN^](https://steamcommunity.com/id/blackwaterbread)
+* [dayrain](https://steamcommunity.com/id/blackwaterbread)
 * [yuulafe](https://steamcommunity.com/id/yuulafe/) - [Twitter](https://twitter.com/yuulafe)
 
 ### 쓰인 폰트
